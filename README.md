@@ -1,4 +1,4 @@
-# Comment System(Loginext Assignment)
+# D3-Pincode Application(Loginext Assignment)
 
 It is simple d3 application in which we have pincode of different regions and ratings corresponding to that region. We have to built a world map which will display the location of all these pincodes with there ratings as a circle, the one with larger rating should have a larger circle.
 
